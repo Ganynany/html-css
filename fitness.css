@@ -1,0 +1,105 @@
+@media (max-width: 768px) {
+    body {
+       font-size: 14px; /* Уменьшение размера шрифта на мобильных */
+    }
+    }
+body {
+text-align: center;
+background-color: #F5F5F5;
+background-image: url('https://surl.li/ggpvsf');
+height: 100%;
+background-repeat: no-repeat;
+background-size: cover;
+margin: 0;
+}
+
+
+
+.fit {
+outline: none;
+border: 1px solid violet;
+padding-right: 20px;
+margin-top: 25px;
+}
+
+.input {
+outline: none;
+border: 1px solid violet;
+margin-right: 0px;
+font-style: italic;
+}
+
+.input2 {
+outline: none;
+border: 1px solid violet;
+}
+
+
+label {
+font-family: Arial sans-serif;
+font-style: italic;
+}
+
+.fit2 {
+font-family: Arial sans-serif;
+font-style: italic;
+}
+
+
+.input5 {
+outline: none;
+border: 1px solid violet;
+margin-bottom: 40px;
+}
+
+
+
+.pit {
+font-family: Arial sans-serif;
+font-size: 20px;
+text-align: left;
+margin-bottom: 40px;
+
+}
+
+.us {
+margin-bottom: 100px;
+}
+
+.sport {
+margin-bottom: 100px;
+}
+
+.health {
+font-family: Arial, sans-sarif;
+font-size: 50px;
+background-color: green;
+}
+
+.button {
+padding: 10px;
+margin-top: -40px;
+outline: none;
+border: 1px solid green;
+}
+
+.button:hover {
+background-color: green;
+text-decoration: underline;
+cursor: pointer;
+}
+
+@media (max-width: 700px) {
+.button {
+background-color: green;
+text-decoration: none;
+outline: none;
+}
+
+.button:hover {
+background-color: green;
+text-decoration: none;
+}
+}
+
+
